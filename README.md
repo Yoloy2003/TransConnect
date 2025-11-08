@@ -114,11 +114,11 @@ Le dossier `TransConnect/Data/` contient des jeux de données exemples. Les modi
 
 ## 📄 Licence
 
-Copyright © [2025] [ALI Mathis]
+Copyright © [2025] [ARMAND Enzo]
 
-Tous droits réservés. Ce logiciel et son code source sont la propriété de [ALI Mathis]. 
+Tous droits réservés. Ce logiciel et son code source sont la propriété de [ARMAND Enzo]. 
 Toute reproduction, distribution, modification ou utilisation de ce code, en tout ou en partie, est strictement interdite sans une autorisation écrite préalable.
 
-Pour toute demande d'utilisation, contactez : [mojodream91@gmail.com].
+Pour toute demande d'utilisation, contactez : [02enzo03@gmail.com].
 
 ```
